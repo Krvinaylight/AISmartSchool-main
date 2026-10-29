@@ -1,0 +1,2 @@
+# AISmartSchool-main
+Smart School
